@@ -9,9 +9,12 @@ def Create_lead();
 print "lead created successfully"
 
 
-#lead feature functionalities
-##
 
 #Create Update.
-def Create_Update();
+def Update_lead();
 print "lead updated successfully"
+
+
+#Delete Lead.
+def delete_lead();
+print "lead deleted successfully"
