@@ -17,4 +17,8 @@ print "lead updated successfully"
 
 #Delete Lead.
 def delete_lead();
-print "lead deleted successfully"
+print "Deleted successfully"
+
+#Access lead
+def access_lead();
+print "Access the lead"
